@@ -1,0 +1,8 @@
+{
+  "registrationPage": {
+    "confirmAge18AndTerms": "Я подтверждаю, что мне исполнилось 18 лет и принимаю условия"
+  },
+  "profilePage": {
+    "female": "Женский"
+  }
+}
