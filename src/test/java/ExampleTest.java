@@ -2,8 +2,6 @@ import org.junit.jupiter.api.parallel.Execution;
 import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.EnumSource;
-import translate.Language;
-import translate.TranslationManager;
 
 @Execution(ExecutionMode.CONCURRENT)
 public class ExampleTest {
